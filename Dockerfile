@@ -1,3 +1,3 @@
 FROM httpd:2.4
-WORKDIR /Users/opeyemiadeniji/Documents/instagram_clone/Dockerfile
+WORKDIR home/ubuntu/dev
 # COPY . /usr/local/apache2/htdocs/

@@ -1,3 +1,3 @@
 FROM httpd:2.4
-WORKDIR /home/ubuntu/
-COPY . /home/ubuntu/
+WORKDIR /home/ubuntu/dev
+COPY . /home/ubuntu/dev
